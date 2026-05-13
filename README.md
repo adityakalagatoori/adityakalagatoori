@@ -18,5 +18,5 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakalagatoori&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityakalagatoori&theme=radical" />
 </p>
