@@ -1,37 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D0221,25:1A0933,50:240046,75:3C096C,100:5A189A&text=VAISHNAV%20ADITYA&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20•%20Systems%20Programmer%20•%20Security%20Researcher&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:050816,30:120824,60:240046,100:3C096C&text=VAISHNAV%20ADITYA&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineer%20•%20Systems%20Programmer&descAlignY=60&descSize=20"/>
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=2600&pause=800&color=C77DFF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+Cybersecurity+Systems;Kernel-Level+Security+Engineering;Real-Time+Threat+Monitoring;Networking+%7C+Cryptography+%7C+Systems+Programming"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Building+Production-Grade+Cybersecurity+Systems;Kernel-Level+Security+Engineering;Real-Time+Threat+Infrastructure;Networking+•+Cryptography+•+Systems+Programming"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# About
 
-```yaml
-Name: Vaishnav Aditya
-Location: Chennai, India
+Cybersecurity student from Chennai focused on building low-level systems, security tooling, and real-time infrastructure.
 
-Focus:
-  - Cybersecurity
-  - Systems Programming
-  - Networking
-  - Real-Time Infrastructure
-  - Kernel-Level Security
+I enjoy working close to the system layer — networking, kernel concepts, attack simulation, monitoring pipelines, and backend architectures.
 
-Currently:
-  - Building production-grade security systems
-  - Exploring distributed systems & cryptography
-  - Working on attack simulation platforms
-```
+Currently exploring distributed systems, advanced networking, and privacy-preserving cryptography.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -41,117 +34,56 @@ Currently:
 
 ---
 
-# 🧠 Core Areas
+# Featured Work
 
-<div align="center">
+## APEX Lite — The Final Sentinel
 
-| Systems | Security | Backend | Research |
-|---|---|---|---|
-| Linux Internals | IDS / IPS | WebSockets | Homomorphic Encryption |
-| Raw Sockets | Threat Detection | Express.js | Privacy Systems |
-| Memory Management | Cryptography | Real-Time Systems | Blockchain Security |
-| Low-Level Programming | Network Security | Monitoring Pipelines | Federated Learning |
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🛡️ APEX Lite — The Final Sentinel
-
-A cybersecurity simulation platform with attack and defense modules.
-
-- Built packet-level attack simulation engine in C  
-- Implemented UDP Flood, TCP SYN, and Slowloris simulations  
-- Designed real-time monitoring using WebSockets  
-- Added encrypted forensic logging and authentication layers  
-
----
-
-## 🔍 Kernel-Level Intrusion Detection System
-
-A lightweight intrusion detection system focused on suspicious activity monitoring.
-
-- Real-time anomaly detection  
-- Threat classification pipeline  
-- Alert and monitoring architecture  
-
----
-
-## 💰 XEPA — Anti Money Laundering Platform
-
-National-level hackathon winning project.
-
-- Graph-based transaction analysis  
-- Blockchain audit logging  
-- Predictive laundering detection  
-- LLM-assisted investigator monitoring  
-
----
-
-# 📊 GitHub Presence
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakalagatoori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF"/>
-
-</div>
+Production-grade cybersecurity simulation platform with attack simulation, monitoring systems, authentication layers, and forensic logging.
 
 <br/>
 
-<div align="center">
+## Kernel-Level IDS
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakalagatoori&theme=tokyonight"/>
-
-</div>
+Intrusion detection system focused on suspicious activity monitoring, anomaly detection, and alert pipelines.
 
 <br/>
 
-<div align="center">
+## XEPA — AML Detection Platform
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityakalagatoori&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
-# 🏆 Achievements
-
-- 🥇 Winner — National Level Hackathon  
-- 💼 Cybersecurity Intern at Coyo.tech under CytNexus  
-- ⚡ Built multiple production-grade cybersecurity systems independently  
+Hackathon-winning anti-money laundering platform using graph analysis, blockchain logging, and predictive detection concepts.
 
 ---
 
-# 🌌 Currently Exploring
+# Areas of Interest
 
 ```txt
-Distributed Systems
+Systems Programming
+Cybersecurity Engineering
 Kernel Internals
-Privacy-Preserving Cryptography
-Secure Infrastructure Design
-Advanced Networking
+Networking
+Cryptography
+Distributed Systems
+Real-Time Infrastructure
 ```
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakalagatoori)
+[![GitHub](https://img.shields.io/badge/GitHub-14081F?style=for-the-badge&logo=github&logoColor=C77DFF)](https://github.com/adityakalagatoori)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-240046?style=for-the-badge&logo=linkedin&logoColor=C77DFF)](#)
 
-[![Email](https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakalagatoori9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakalagatoori9@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D0221,25:240046,50:3C096C,75:5A189A,100:7B2CBF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050816,40:240046,100:3C096C&section=footer"/>
 
 </div>
