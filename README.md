@@ -94,9 +94,9 @@ National-level hackathon winning project.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakalagatoori&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=E0AAFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakalagatoori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF"/>
 
 </div>
 
@@ -104,11 +104,17 @@ National-level hackathon winning project.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=adityakalagatoori&theme=midnight-purple&hide_border=true&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakalagatoori&theme=tokyonight"/>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityakalagatoori&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
 
 # 🏆 Achievements
 
