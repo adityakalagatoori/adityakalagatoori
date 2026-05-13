@@ -134,11 +134,17 @@ Advanced Networking
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakalagatoori)
+<a href="https://github.com/adityakalagatoori">
+  <img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+<a href="https://www.linkedin.com/in/vaishnav-aditya/">
+  <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakalagatoori9@gmail.com)
+<a href="mailto:adityakalagatoori9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
