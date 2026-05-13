@@ -17,6 +17,6 @@
 - ⚙️ Built multiple production-grade cybersecurity systems independently
 
 
-<!-- GitHub Stats Card -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=radical&bg_color=0D1117&title_color=ff3068&icon_color=ff3068&text_color=FFFFFF&border_color=30363D" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakalagatoori&theme=radical" />
+</p>
