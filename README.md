@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi, I'm Vaishnav Aditya 👋
 
@@ -16,6 +15,11 @@
 - 🥇 Winner — National Level Hackathon (XEPA AML System)
 - 💼 Secured Paid Internship at Coyo.tech under CytNexus
 - ⚙️ Built multiple production-grade cybersecurity systems independently
+
+
+![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=radical)
+
+---
 
 ---
 
