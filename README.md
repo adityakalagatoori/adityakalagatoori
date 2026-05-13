@@ -17,9 +17,10 @@
 - ⚙️ Built multiple production-grade cybersecurity systems independently
 
 
-![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=radical)
+## 📈 GitHub Stats
 
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 ---
 
