@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**adityakalagatoori/adityakalagatoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vaishnav Aditya 👋
 
-Here are some ideas to get you started:
+💻 Cybersecurity & Systems Engineering Student from Chennai, India<br/>
+⚡ Building production-grade security systems, kernel-level IDS, and attack simulation platforms<br/>
+🛡️ Passionate about low-level programming, networking, cryptography, and real-time systems<br/>
+🏆 National-Level Hackathon Winner — XEPA AML System<br/>
+🚀 Cybersecurity Intern at Coyo.tech under CytNexus<br/>
+🔬 Exploring kernel security, privacy-preserving cryptography, and advanced system architectures<br/>
+📚 Currently learning more about distributed systems, advanced networking, and secure infrastructures<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🏆 Achievements
+
+- 🥇 Winner — National Level Hackathon (XEPA AML System)
+- 💼 Secured Paid Internship at Coyo.tech under CytNexus
+- ⚙️ Built multiple production-grade cybersecurity systems independently
+
+---
+
