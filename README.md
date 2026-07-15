@@ -94,10 +94,6 @@ National-level hackathon winning project.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adityakalagatoori&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakalagatoori&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=E0AAFF"/>
-
 </div>
 
 <br/>
